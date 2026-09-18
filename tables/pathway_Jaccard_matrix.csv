@@ -1,0 +1,12 @@
+"","cellular response to glucose stimulus","cholesterol efflux","glucose homeostasis","hormone secretion","insulin secretion","mitochondrial ATP synthesis coupled electron transport","neuropeptide signaling pathway","oxidative phosphorylation","peptide hormone secretion","regulation of insulin secretion","regulation of lipid metabolic process"
+"cellular response to glucose stimulus",1,0.031,0.5,0.276,0.36,0,0,0,0.318,0.357,0.046
+"cholesterol efflux",0.031,1,0.05,0.01,0.014,0,0,0,0.012,0.015,0.111
+"glucose homeostasis",0.5,0.05,1,0.291,0.352,0,0,0,0.316,0.349,0.069
+"hormone secretion",0.276,0.01,0.291,1,0.705,0,0.053,0.007,0.833,0.615,0.05
+"insulin secretion",0.36,0.014,0.352,0.705,1,0,0.027,0.008,0.846,0.873,0.036
+"mitochondrial ATP synthesis coupled electron transport",0,0,0,0,0,1,0,0.688,0,0,0
+"neuropeptide signaling pathway",0,0,0,0.053,0.027,0,1,0,0.048,0,0.018
+"oxidative phosphorylation",0,0,0,0.007,0.008,0.688,0,1,0.007,0.009,0.013
+"peptide hormone secretion",0.318,0.012,0.316,0.833,0.846,0,0.048,0.007,1,0.738,0.033
+"regulation of insulin secretion",0.357,0.015,0.349,0.615,0.873,0,0,0.009,0.738,1,0.03
+"regulation of lipid metabolic process",0.046,0.111,0.069,0.05,0.036,0,0.018,0.013,0.033,0.03,1

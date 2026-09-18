@@ -1,0 +1,9 @@
+# Raw counts and local intermediates
+data/gene_counts/
+*.rds
+.RData
+.Rhistory
+.RDataTmp
+.Rproj.user/
+Thumbs.db
+.DS_Store
